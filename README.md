@@ -30,6 +30,18 @@ The project provides insights into transportation performance, inventory managem
 ---
 
 ## Key Features
+* Data Cleaning and Preprocessing using PySpark
+* Large-Scale Supply Chain Data Processing
+* Revenue and Sales Performance Analysis
+* Transportation and Shipping Cost Analysis
+* Inventory Monitoring and Stock Level Tracking
+* Supplier Performance Evaluation
+* Demand Forecasting using Moving Average Techniques
+* Interactive Power BI Dashboard Development
+* KPI Monitoring (Revenue, Products Sold, Shipping Cost, Stock Levels)
+* Business Intelligence and Decision Support Analytics
+
+---
 
 ### Data Processing
 
@@ -79,6 +91,11 @@ The project provides insights into transportation performance, inventory managem
 5. Demand Forecasting
 6. Dashboard Development
 7. Business Insights Generation
+
+---
+##📷 Dashboard Preview
+
+<img width="1000" height="578" alt="1781055474576824274821550699327" src="https://github.com/user-attachments/assets/7eed7586-f01d-4149-96df-ca6c1150f1ee" />
 
 ---
 
